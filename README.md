@@ -32,9 +32,6 @@ To run this project locally, you need to have the following installed:
     - You can simply double-click the `index.html` file, or
     - Use a web server to serve the files (e.g., using VS Code Live Server extension).
 
-### Usage
-Once you have the project running locally, you can navigate through the different sections of the website to explore the features and products.
-
 ## Through Github Page
 
 1. Open the link https://ikhsaneff.github.io/mieffendy_hw2/
