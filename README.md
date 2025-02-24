@@ -37,4 +37,4 @@ Once you have the project running locally, you can navigate through the differen
 
 ## Through Github Page
 
-1. Open the linkhttps://ikhsaneff.github.io/mieffendy_hw2/
+1. Open the link https://ikhsaneff.github.io/mieffendy_hw2/
