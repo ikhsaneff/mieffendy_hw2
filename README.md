@@ -34,6 +34,3 @@ To run this project locally, you need to have the following installed:
 
 ### Usage
 Once you have the project running locally, you can navigate through the different sections of the website to explore the features and products.
-
-## License
-This project is licensed under the MIT License.
